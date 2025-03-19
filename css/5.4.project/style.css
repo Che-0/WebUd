@@ -1,0 +1,29 @@
+
+
+* {
+    background-color: rgb(216, 33, 170);
+}
+
+
+h2[id="red"] {
+    color: red;
+}
+#blue {
+    color: rgb(29, 235, 224);
+}
+
+.color-title[id="orange"] {
+    color: rgb(224, 117, 29);
+}
+#green {
+    color: rgb(29, 224, 29);
+}
+#yellow {
+    color: rgb(224, 224, 29);
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
