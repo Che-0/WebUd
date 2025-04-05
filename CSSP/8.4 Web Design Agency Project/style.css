@@ -8,6 +8,23 @@ body {
 }
 .main {
   flex: 1;
+  background-color: black;
+}
+
+.logo {
+  
+  /* TODO: */
+}
+
+.title-image{
+  width: 100px;
+  height: 100px;
+  float: left;
+  display: inline-block;
+}
+
+.left-card{
+  
 }
 
 h1 {

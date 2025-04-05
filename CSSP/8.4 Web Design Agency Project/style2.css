@@ -1,0 +1,51 @@
+.body {
+    background-color: dimgrey;
+}
+.main{
+    background-color: black;
+    margin: 3%;
+}
+
+.logo{
+    display: inline;
+    width: 40%;
+}
+
+.con{
+    
+    display: flex;
+    
+}
+
+
+
+.contenedorimg {
+    display: inline-block;
+    width: auto;
+    height: auto;
+}
+
+.imagenes{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+    
+}
+
+
+
+.rojo{
+    color: red;
+    background-color: red;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+.amarillo{
+    color: yellow;
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
