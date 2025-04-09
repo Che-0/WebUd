@@ -12,18 +12,20 @@
 }
 
 .con{
-    
-    display: flex;
-    
+    display: block;
 }
 
+.vacio{
+    display: inline-block;
+    width: 200px;
+}
 
 
 .contenedorimg {
     display: inline-block;
-    width: auto;
-    height: auto;
-}
+    width: 200px;
+
+    }
 
 .imagenes{
     width: 200px;
@@ -32,6 +34,7 @@
     margin-right: 20px;
     
 }
+
 
 
 
